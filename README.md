@@ -52,25 +52,25 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" alt="Sabari's GitHub stats" />
 </div>
 
 ### 🏅 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="45%" alt="Sabari's top languages" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SivaSabariGanesan&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SivaSabariGanesan&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Sabari's GitHub trophies" />
 </div>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaSabariGanesan&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=SivaSabariGanesan&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" alt="Sabari's GitHub streak" />
 </div>
 
 ### 📈 Contribution Graph
