@@ -40,14 +40,14 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" alt="Sabari's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="38%" alt="Sabari's top languages" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" alt="Sabari's GitHub stats" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="38%" alt="Sabari's top languages" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SivaSabariGanesan&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Sabari's GitHub trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SivaSabariGanesan&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Sabari's GitHub trophies" />
 </div>
 
 ### 🔥 GitHub Streak
@@ -92,6 +92,26 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 </div>
 
 ---
+
+<details>
+<summary>🩹 Why the stats/trophy cards were broken (and the real fix)</summary>
+
+The public `github-readme-stats.vercel.app` instance has been hitting repeated `503 DEPLOYMENT_PAUSED` outages since January 2026 — it's a known, ongoing issue affecting thousands of profiles, not something specific to this repo. `github-profile-trophy.vercel.app` has the same shared-instance problem.
+
+This README now points at:
+- `github-readme-stats.zcy.dev` — an actively maintained fork on its own domain, for the Stats and Top Languages cards
+- `github-profile-trophy-liard-delta.vercel.app` — a community mirror officially listed by the trophy project for load balancing
+
+Both work with zero setup. But since third-party badge services can go down at any time, the durable fix is self-hosting your own instance:
+
+1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. Deploy each fork to your own Vercel account (free tier is enough)
+3. Add a GitHub Personal Access Token as an environment variable on that deployment (so it isn't sharing anyone else's rate limit)
+4. Swap the two domains above for your own `*.vercel.app` URL
+
+That's the same idea as the snake animation below — your own generated content, not depending on someone else's shared quota.
+
+</details>
 
 <details>
 <summary>🐍 Enabling the snake animation</summary>
