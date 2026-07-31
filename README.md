@@ -40,26 +40,26 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" alt="Sabari's GitHub stats" />
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="38%" alt="Sabari's top languages" />
+  <img src="./profile/stats.svg" width="48%" alt="Sabari's GitHub stats" />
+  <img src="./profile/top-langs.svg" width="38%" alt="Sabari's top languages" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SivaSabariGanesan&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Sabari's GitHub trophies" />
+  <img src="./profile/trophies.svg" alt="Sabari's GitHub trophies" />
 </div>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SivaSabariGanesan&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="60%" alt="Sabari's GitHub streak" />
+  <img src="./profile/streak.svg" width="60%" alt="Sabari's GitHub streak" />
 </div>
 
-### 📈 Contribution Graph
+### 🧊 Animated 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivaSabariGanesan&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" />
+  <img src="./profile/3d-contrib/profile-night-rainbow.svg" width="90%" alt="Sabari's animated 3D contribution calendar" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -67,8 +67,6 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SivaSabariGanesan/SivaSabariGanesan/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Sabari's contribution snake" />
 </div>
-
-> The snake animation above needs a one-time setup — see [setup note](#-enabling-the-snake-animation) below.
 
 ---
 
@@ -94,61 +92,114 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 ---
 
 <details>
-<summary>🩹 Why the stats/trophy cards were broken (and the real fix)</summary>
+<summary>⚙️ One-time setup — everything above (except the header/typing SVG/icons/badges) is now GitHub-Actions-generated</summary>
 
-The public `github-readme-stats.vercel.app` instance has been hitting repeated `503 DEPLOYMENT_PAUSED` outages since January 2026 — it's a known, ongoing issue affecting thousands of profiles, not something specific to this repo. `github-profile-trophy.vercel.app` has the same shared-instance problem.
+All the "live GitHub data" widgets — Stats, Top Languages, Trophies, Streak, and the 3D contribution calendar — now render from **static SVGs committed directly into this repo** by a single scheduled workflow, instead of hitting a third-party server on every page load. This is the fix for the broken/blank images from before: those relied on shared public instances (`github-readme-stats.vercel.app`, `github-profile-trophy.vercel.app`) that keep getting rate-limited or paused. Generating locally removes that dependency entirely — nothing to go down.
 
-This README now points at:
-- `github-readme-stats.zcy.dev` — an actively maintained fork on its own domain, for the Stats and Top Languages cards
-- `github-profile-trophy-liard-delta.vercel.app` — a community mirror officially listed by the trophy project for load balancing
+**1. Add the workflow.** Create `.github/workflows/profile-widgets.yml` in the `SivaSabariGanesan/SivaSabariGanesan` repo:
 
-Both work with zero setup. But since third-party badge services can go down at any time, the durable fix is self-hosting your own instance:
+```yaml
+name: Update Profile Widgets
 
-1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-2. Deploy each fork to your own Vercel account (free tier is enough)
-3. Add a GitHub Personal Access Token as an environment variable on that deployment (so it isn't sharing anyone else's rate limit)
-4. Swap the two domains above for your own `*.vercel.app` URL
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
 
-That's the same idea as the snake animation below — your own generated content, not depending on someone else's shared quota.
+jobs:
+  update-widgets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
 
-</details>
+      - name: Generate GitHub stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-<details>
-<summary>🐍 Enabling the snake animation</summary>
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-The contribution-snake image above is generated by a GitHub Action, not a static link, so it needs a one-time setup in this repo:
+      - name: Generate trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophies.svg
+          theme: darkhub
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-1. Create `.github/workflows/snake.yml` with:
-   ```yaml
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [main]
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           id: snake
-           with:
-             github_user_name: SivaSabariGanesan
-             outputs: |
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-               dist/github-contribution-grid-snake.svg
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
-   ```
-2. Push it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow).
-3. It'll then auto-regenerate daily and the image above will animate.
+      - name: Generate animated 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          svg_out_dir: profile/3d-contrib
 
-If you'd rather skip this, just delete the "Contribution Snake" section — everything else in this README works with no setup.
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git diff --cached --quiet || git commit -m "chore: update profile widgets"
+          git push
+```
+
+**2. Add the snake workflow too** (separate file, `.github/workflows/snake.yml`), if you don't have it already:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: SivaSabariGanesan
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3. Enable write permissions.** Repo → Settings → Actions → General → Workflow permissions → **Read and write permissions**. Without this the commit-and-push step fails.
+
+**4. Run both workflows once manually** — Actions tab → select each workflow → *Run workflow*. After that they run automatically every night, so the cards stay fresh with zero third-party dependency.
+
+**5. Push this README.** The `./profile/...` paths are relative to the repo root, so they'll resolve automatically once the first run commits the `profile/` folder.
+
+If any single card ever fails to generate (e.g. an action gets deprecated), the rest keep working independently since each is its own step — replace just that one step rather than the whole workflow.
 
 </details>
