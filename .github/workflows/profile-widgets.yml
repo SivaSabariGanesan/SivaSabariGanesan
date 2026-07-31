@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-profile:
     runs-on: ubuntu-latest
+    env:
+      WIDGETS_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
 
     steps:
       - name: Checkout Repository
@@ -35,7 +37,7 @@ jobs:
             title_color=58A6FF&
             icon_color=58A6FF
           path: profile/stats.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ env.WIDGETS_TOKEN }}
 
       # Top Languages
       - name: Generate Top Languages
@@ -51,13 +53,13 @@ jobs:
             bg_color=0D1117&
             title_color=58A6FF
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ env.WIDGETS_TOKEN }}
 
       # 3D Contribution Graph
       - name: Generate 3D Contribution
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ env.WIDGETS_TOKEN }}
           USERNAME: SivaSabariGanesan
         with:
           username: SivaSabariGanesan
