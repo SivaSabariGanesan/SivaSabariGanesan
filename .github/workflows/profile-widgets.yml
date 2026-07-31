@@ -1,0 +1,80 @@
+name: Update Profile Widgets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      # GitHub Stats
+      - name: Generate GitHub Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: >
+            username=SivaSabariGanesan&
+            show_icons=true&
+            include_all_commits=true&
+            count_private=true&
+            theme=github_dark&
+            hide_border=true&
+            bg_color=0D1117&
+            title_color=58A6FF&
+            icon_color=58A6FF
+          path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # Top Languages
+      - name: Generate Top Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >
+            username=SivaSabariGanesan&
+            layout=compact&
+            langs_count=8&
+            theme=github_dark&
+            hide_border=true&
+            bg_color=0D1117&
+            title_color=58A6FF
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # 3D Contribution Graph
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: SivaSabariGanesan
+        with:
+          username: SivaSabariGanesan
+          svg_out_dir: profile/3d-contrib
+
+      # Commit generated files
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "chore: update profile widgets"
+          git push
