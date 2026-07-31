@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SivaSabariGanesan/SivaSabariGanesan/main/assets/wave.gif" width="0" height="0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi%20there,%20I'm%20Sabari%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%2B%20Coffee%20%3D%20❤️&descAlignY=58&descSize=18" width="100%" />
 
-# Hi there, I'm Sabari 👋🌐
-
-### Code + Coffee = ❤️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Django;Website+Lead+%40+Titanium+Fest;Ops+Head+%40+DEVS-REC+Tech+Team" alt="Typing SVG" />
 
 Welcome to my GitHub profile! Here you'll find my projects and contributions to the world of software development.
 
@@ -15,20 +13,10 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 ### 🚀 Technologies I'm Working With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flask,django&theme=dark" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,postgres,mongodb,firebase,redis&theme=dark" />
 </p>
 
 ---
@@ -53,12 +41,7 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SivaSabariGanesan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%" alt="Sabari's GitHub stats" />
-</div>
-
-### 🏅 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="45%" alt="Sabari's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaSabariGanesan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" width="38%" alt="Sabari's top languages" />
 </div>
 
 ### 🏆 GitHub Trophies
@@ -79,12 +62,20 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions to 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivaSabariGanesan&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" />
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SivaSabariGanesan/SivaSabariGanesan/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Sabari's contribution snake" />
+</div>
+
+> The snake animation above needs a one-time setup — see [setup note](#-enabling-the-snake-animation) below.
+
 ---
 
 ### ⚡ Fun Facts
 
-- 🏟️ Built an event platform that handled **41K+ unique visitors** with zero downtime
-- 🏆 Hackathon winner — Circuity 2024, Saveetha Engineering College, Top 6 at IIT Kanpur's BuzzOnEarth
+- 🏟️ Built an event platform (Titanium Fest) that handled **13K+ users / 41K+ unique visitors** with zero downtime
+- 🏆 Hackathon winner — Circuity 2024, Saveetha Engineering College; Top 6 at IIT Kanpur's BuzzOnEarth
 - 🎮 Currently exploring game development on the side
 - ☕ I love coding and coffee, always learning something new
 
@@ -96,4 +87,48 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 
 <img src="https://komarev.com/ghpvc/?username=SivaSabariGanesan&label=Profile%20views&color=58A6FF&style=flat" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" />
+
 </div>
+
+---
+
+<details>
+<summary>🐍 Enabling the snake animation</summary>
+
+The contribution-snake image above is generated by a GitHub Action, not a static link, so it needs a one-time setup in this repo:
+
+1. Create `.github/workflows/snake.yml` with:
+   ```yaml
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch:
+     push:
+       branches: [main]
+
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           id: snake
+           with:
+             github_user_name: SivaSabariGanesan
+             outputs: |
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+               dist/github-contribution-grid-snake.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
+   ```
+2. Push it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow).
+3. It'll then auto-regenerate daily and the image above will animate.
+
+If you'd rather skip this, just delete the "Contribution Snake" section — everything else in this README works with no setup.
+
+</details>
