@@ -1,0 +1,73 @@
+name: Sabari
+headline: Full-Stack Developer
+tagline: Building things that should exist.
+bio_short: I build web applications, AI-powered products, and experimental software — turning ideas into things people can actually use.
+bio_about: I'm a full-stack developer focused on building scalable web applications and practical AI tools. I enjoy taking complex, messy problems and turning them into clean, reliable products that deliver real value. Whether architecting high-traffic platforms or crafting responsive user interfaces, I learn fastest by shipping real code for real users.
+
+social:
+  github: https://github.com/SivaSabariGanesan
+  linkedin: https://linkedin.com/in/siva-sabari-ganesan-a-b3288a28b
+  email: mailto:asivasabariganesan@gmail.com
+
+what_i_build:
+  - id: "01"
+    title: Web Products
+    desc: Production-ready full-stack applications built for scale, speed, and real-world traffic.
+  - id: "02"
+    title: AI Tools
+    desc: Practical AI systems and workflows designed to solve actual developer and user problems.
+  - id: "03"
+    title: Interactive Experiences
+    desc: Fast, thoughtful, and highly responsive user interfaces crafted with modern frameworks.
+  - id: "04"
+    title: Experiments
+    desc: Developer tools, prototypes, and side projects exploring new technologies and ideas.
+
+tech_stack:
+  frontend: React · Next.js · Tailwind CSS · JavaScript · TypeScript
+  backend: Node.js · Express · Flask · Django
+  database: PostgreSQL · MongoDB · Redis · Firebase
+  languages: JavaScript · TypeScript · Python · Java
+  infra: Git · GitHub · Docker · Linux
+
+featured_work:
+  - name: Titanium Fest
+    tagline: An event platform built to handle real-world traffic at scale.
+    details:
+      - "Traffic: 13K+ active users & 41K+ unique visitors"
+      - "Reliability: Zero downtime throughout the entire event"
+      - "Role: Led website development and end-to-end deployment"
+  - name: AI Projects
+    tagline: Experimental products turning practical AI into useful tools.
+    details:
+      - "Focus: Intelligent media workflows & developer-focused automation"
+      - "Philosophy: Solving real workflow problems rather than using AI for the sake of AI"
+
+impact:
+  - metric: 13K+
+    label: Active Users
+  - metric: 41K+
+    label: Unique Visitors
+  - metric: "0"
+    label: Downtime
+  - metric: 1st Place
+    label: Circuity 2024
+  - metric: Top 6
+    label: IIT Kanpur
+
+journey:
+  - 🥇 Winner — Circuity 2024, Saveetha Engineering College
+  - 🏅 Top 6 — BuzzOnEarth, IIT Kanpur
+  - 🌐 Website Lead, Titanium Fest Platform
+
+currently_building:
+  - → Full-stack products for production deployment
+  - → Practical AI-powered workflows & automation
+  - → Interactive, performance-focused web experiences
+  - → Experimental side projects and developer tools
+  - → Game development experiments
+
+outside_code:
+  - I like building more than talking about building.
+  - I enjoy turning vague ideas into working software.
+  - Coffee is occasionally a dependency.

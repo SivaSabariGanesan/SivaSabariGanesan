@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi,%20I'm%20Sabari%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20should%20exist.&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi,%20I'm%20{{name}}%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc={{tagline_encoded}}&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack%20Developer;Product+Builder;AI+%26+Web+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
-
-<br />
-
-I build web applications, AI-powered products, and experimental software — turning ideas into things people can actually use.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines={{headline_encoded}};Product+Builder;AI+%26+Web+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 
 <br />
 
-<a href="https://linkedin.com/in/siva-sabari-ganesan-a-b3288a28b">
+{{bio_short}}
+
+<br />
+
+<a href="{{social.linkedin}}">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:asivasabariganesan@gmail.com">
+<a href="{{social.email}}">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/SivaSabariGanesan">
+<a href="{{social.github}}">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -26,7 +26,7 @@ I build web applications, AI-powered products, and experimental software — tur
 
 ## 👋 A little about me
 
-I'm a full-stack developer focused on building scalable web applications and practical AI tools. I enjoy taking complex, messy problems and turning them into clean, reliable products that deliver real value. Whether architecting high-traffic platforms or crafting responsive user interfaces, I learn fastest by shipping real code for real users.
+{{bio_about}}
 
 ---
 
@@ -67,11 +67,11 @@ I'm a full-stack developer focused on building scalable web applications and pra
 
 | Category | Stack & Tooling |
 | :--- | :--- |
-| **Frontend** | React · Next.js · Tailwind CSS · JavaScript · TypeScript |
-| **Backend** | Node.js · Express · Flask · Django |
-| **Data & Cache** | PostgreSQL · MongoDB · Redis · Firebase |
-| **Languages** | JavaScript · TypeScript · Python · Java |
-| **Infra & Tools** | Git · GitHub · Docker · Linux |
+| **Frontend** | {{tech_stack.frontend}} |
+| **Backend** | {{tech_stack.backend}} |
+| **Data & Cache** | {{tech_stack.database}} |
+| **Languages** | {{tech_stack.languages}} |
+| **Infra & Tools** | {{tech_stack.infra}} |
 
 <br />
 
@@ -197,13 +197,13 @@ I'm a full-stack developer focused on building scalable web applications and pra
 
 <br />
 
-<a href="https://linkedin.com/in/siva-sabari-ganesan-a-b3288a28b">
+<a href="{{social.linkedin}}">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:asivasabariganesan@gmail.com">
+<a href="{{social.email}}">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/SivaSabariGanesan">
+<a href="{{social.github}}">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
