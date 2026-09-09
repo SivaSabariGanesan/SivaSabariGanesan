@@ -1,0 +1,2925 @@
+<svg width="840" height="420" viewBox="0 0 840 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .sub { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
+  </style>
+  <rect width="840" height="420" fill="#0D1117" rx="8"/>
+  <text x="30" y="35" class="title">3D Contribution Graph</text>
+  <text x="30" y="55" class="sub">2,233 contributions in the last year</text>
+  
+  <g transform="translate(10, 50)">
+    
+    <g transform="translate(60, 120)">
+      <!-- Top Face -->
+      <polygon points="0,-22 7,-26 14,-22 7,-18" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-18 0,-22" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-22 7,-18" fill="#388BFD" />
+    </g>
+    <g transform="translate(53, 128)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(46, 136)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(39, 144)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(32, 152)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(25, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(18, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-24 7,-28 14,-24 7,-20" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-20 0,-24" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-24 7,-20" fill="#388BFD" />
+    </g>
+    <g transform="translate(74, 124)">
+      <!-- Top Face -->
+      <polygon points="0,-24 7,-28 14,-24 7,-20" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-20 0,-24" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-24 7,-20" fill="#388BFD" />
+    </g>
+    <g transform="translate(67, 132)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(60, 140)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(53, 148)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(46, 156)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(39, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-25 7,-29 14,-25 7,-21" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-21 0,-25" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-25 7,-21" fill="#388BFD" />
+    </g>
+    <g transform="translate(32, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(88, 128)">
+      <!-- Top Face -->
+      <polygon points="0,-22 7,-26 14,-22 7,-18" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-18 0,-22" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-22 7,-18" fill="#388BFD" />
+    </g>
+    <g transform="translate(81, 136)">
+      <!-- Top Face -->
+      <polygon points="0,-28 7,-32 14,-28 7,-24" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-24 0,-28" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-28 7,-24" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(74, 144)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(67, 152)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(60, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(53, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(46, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(102, 132)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(95, 140)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(88, 148)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(81, 156)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(74, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(67, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(60, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(116, 136)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(109, 144)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(102, 152)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(95, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(88, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(81, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(74, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(130, 140)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(123, 148)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(116, 156)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(109, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(102, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(95, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(88, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(144, 144)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(137, 152)">
+      <!-- Top Face -->
+      <polygon points="0,-17 7,-21 14,-17 7,-13" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-13 0,-17" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-17 7,-13" fill="#388BFD" />
+    </g>
+    <g transform="translate(130, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(123, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(116, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(109, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(102, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(158, 148)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(151, 156)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(144, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(137, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(130, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(123, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(116, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(172, 152)">
+      <!-- Top Face -->
+      <polygon points="0,-31 7,-35 14,-31 7,-27" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-27 0,-31" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-31 7,-27" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(165, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-23 7,-27 14,-23 7,-19" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-19 0,-23" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-23 7,-19" fill="#388BFD" />
+    </g>
+    <g transform="translate(158, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-14 7,-18 14,-14 7,-10" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-10 0,-14" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-14 7,-10" fill="#155BE5" />
+    </g>
+    <g transform="translate(151, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(144, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(137, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(130, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(186, 156)">
+      <!-- Top Face -->
+      <polygon points="0,-29 7,-33 14,-29 7,-25" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-25 0,-29" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-29 7,-25" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(179, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(172, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(165, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(158, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(151, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(144, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(200, 160)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(193, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(186, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(179, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(172, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(165, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(158, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-14 7,-18 14,-14 7,-10" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-10 0,-14" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-14 7,-10" fill="#155BE5" />
+    </g>
+    <g transform="translate(214, 164)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(207, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(200, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(193, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(186, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(179, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(172, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(228, 168)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(221, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(214, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(207, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(200, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(193, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(186, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(242, 172)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(235, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(228, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(221, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(214, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(207, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(200, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(256, 176)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(249, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(242, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(235, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(228, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(221, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(214, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(270, 180)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(263, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(256, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(249, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(242, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(235, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(228, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(284, 184)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(277, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(270, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(263, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(256, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(249, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(242, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(298, 188)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(291, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(284, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(277, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-25 7,-29 14,-25 7,-21" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-21 0,-25" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-25 7,-21" fill="#388BFD" />
+    </g>
+    <g transform="translate(270, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(263, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(256, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(312, 192)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(305, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(298, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-24 7,-28 14,-24 7,-20" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-20 0,-24" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-24 7,-20" fill="#388BFD" />
+    </g>
+    <g transform="translate(291, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(284, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(277, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(270, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(326, 196)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(319, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-17 7,-21 14,-17 7,-13" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-13 0,-17" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-17 7,-13" fill="#388BFD" />
+    </g>
+    <g transform="translate(312, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-26 7,-30 14,-26 7,-22" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-22 0,-26" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-26 7,-22" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(305, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-33 7,-37 14,-33 7,-29" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-29 0,-33" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-33 7,-29" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(298, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(291, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(284, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(340, 200)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(333, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(326, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-23 7,-27 14,-23 7,-19" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-19 0,-23" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-23 7,-19" fill="#388BFD" />
+    </g>
+    <g transform="translate(319, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-28 7,-32 14,-28 7,-24" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-24 0,-28" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-28 7,-24" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(312, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-29 7,-33 14,-29 7,-25" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-25 0,-29" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-29 7,-25" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(305, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-26 7,-30 14,-26 7,-22" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-22 0,-26" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-26 7,-22" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(298, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(354, 204)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(347, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(340, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(333, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(326, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(319, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-14 7,-18 14,-14 7,-10" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-10 0,-14" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-14 7,-10" fill="#155BE5" />
+    </g>
+    <g transform="translate(312, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(368, 208)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(361, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-11 7,-15 14,-11 7,-7" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-7 0,-11" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-11 7,-7" fill="#155BE5" />
+    </g>
+    <g transform="translate(354, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(347, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(340, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-11 7,-15 14,-11 7,-7" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-7 0,-11" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-11 7,-7" fill="#155BE5" />
+    </g>
+    <g transform="translate(333, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(326, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(382, 212)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(375, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(368, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(361, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-14 7,-18 14,-14 7,-10" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-10 0,-14" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-14 7,-10" fill="#155BE5" />
+    </g>
+    <g transform="translate(354, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-7 7,-11 14,-7 7,-3" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-3 0,-7" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-7 7,-3" fill="#155BE5" />
+    </g>
+    <g transform="translate(347, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(340, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(396, 216)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(389, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-22 7,-26 14,-22 7,-18" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-18 0,-22" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-22 7,-18" fill="#388BFD" />
+    </g>
+    <g transform="translate(382, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(375, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(368, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(361, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(354, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(410, 220)">
+      <!-- Top Face -->
+      <polygon points="0,-29 7,-33 14,-29 7,-25" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-25 0,-29" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-29 7,-25" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(403, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(396, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(389, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(382, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-11 7,-15 14,-11 7,-7" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-7 0,-11" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-11 7,-7" fill="#155BE5" />
+    </g>
+    <g transform="translate(375, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(368, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(424, 224)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(417, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(410, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(403, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(396, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(389, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(382, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(438, 228)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(431, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(424, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(417, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(410, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(403, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(396, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(452, 232)">
+      <!-- Top Face -->
+      <polygon points="0,-34 7,-38 14,-34 7,-30" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-30 0,-34" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-34 7,-30" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(445, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(438, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(431, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(424, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(417, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(410, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(466, 236)">
+      <!-- Top Face -->
+      <polygon points="0,-23 7,-27 14,-23 7,-19" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-19 0,-23" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-23 7,-19" fill="#388BFD" />
+    </g>
+    <g transform="translate(459, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(452, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(445, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(438, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(431, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(424, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(480, 240)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(473, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(466, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(459, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(452, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(445, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(438, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(494, 244)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(487, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(480, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(473, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(466, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(459, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(452, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(508, 248)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(501, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(494, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(487, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(480, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(473, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(466, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(522, 252)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(515, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(508, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(501, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(494, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(487, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(480, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(536, 256)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(529, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(522, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(515, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(508, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(501, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(494, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-23 7,-27 14,-23 7,-19" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-19 0,-23" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-23 7,-19" fill="#388BFD" />
+    </g>
+    <g transform="translate(550, 260)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(543, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(536, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(529, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(522, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(515, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(508, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-34 7,-38 14,-34 7,-30" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-30 0,-34" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-34 7,-30" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(564, 264)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(557, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(550, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(543, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-17 7,-21 14,-17 7,-13" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-13 0,-17" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-17 7,-13" fill="#388BFD" />
+    </g>
+    <g transform="translate(536, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-26 7,-30 14,-26 7,-22" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-22 0,-26" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-26 7,-22" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(529, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-34 7,-38 14,-34 7,-30" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-30 0,-34" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-34 7,-30" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(522, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(578, 268)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(571, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(564, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(557, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(550, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(543, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-34 7,-38 14,-34 7,-30" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-30 0,-34" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-34 7,-30" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(536, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(592, 272)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(585, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(578, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(571, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-17 7,-21 14,-17 7,-13" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-13 0,-17" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-17 7,-13" fill="#388BFD" />
+    </g>
+    <g transform="translate(564, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-24 7,-28 14,-24 7,-20" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-20 0,-24" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-24 7,-20" fill="#388BFD" />
+    </g>
+    <g transform="translate(557, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-28 7,-32 14,-28 7,-24" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-24 0,-28" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-28 7,-24" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(550, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-28 7,-32 14,-28 7,-24" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-24 0,-28" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-28 7,-24" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(606, 276)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(599, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(592, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(585, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(578, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(571, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(564, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(620, 280)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(613, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(606, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(599, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(592, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(585, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(578, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(634, 284)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(627, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(620, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-11 7,-15 14,-11 7,-7" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-7 0,-11" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-11 7,-7" fill="#155BE5" />
+    </g>
+    <g transform="translate(613, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(606, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(599, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(592, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(648, 288)">
+      <!-- Top Face -->
+      <polygon points="0,-5 7,-9 14,-5 7,-1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-1 0,-5" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-5 7,-1" fill="#21262D" />
+    </g>
+    <g transform="translate(641, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(634, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(627, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-22 7,-26 14,-22 7,-18" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-18 0,-22" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-22 7,-18" fill="#388BFD" />
+    </g>
+    <g transform="translate(620, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(613, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-15 7,-19 14,-15 7,-11" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-11 0,-15" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-15 7,-11" fill="#155BE5" />
+    </g>
+    <g transform="translate(606, 336)">
+      <!-- Top Face -->
+      <polygon points="0,-6 7,-10 14,-6 7,-2" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-2 0,-6" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-6 7,-2" fill="#155BE5" />
+    </g>
+    <g transform="translate(662, 292)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(655, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-26 7,-30 14,-26 7,-22" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-22 0,-26" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-26 7,-22" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(648, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(641, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(634, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-26 7,-30 14,-26 7,-22" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-22 0,-26" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-26 7,-22" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(627, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-18 7,-22 14,-18 7,-14" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-14 0,-18" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-18 7,-14" fill="#388BFD" />
+    </g>
+    <g transform="translate(620, 340)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(676, 296)">
+      <!-- Top Face -->
+      <polygon points="0,-30 7,-34 14,-30 7,-26" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-26 0,-30" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-30 7,-26" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(669, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(662, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(655, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(648, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-28 7,-32 14,-28 7,-24" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-24 0,-28" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-28 7,-24" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(641, 336)">
+      <!-- Top Face -->
+      <polygon points="0,-19 7,-23 14,-19 7,-15" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-15 0,-19" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-19 7,-15" fill="#388BFD" />
+    </g>
+    <g transform="translate(634, 344)">
+      <!-- Top Face -->
+      <polygon points="0,-11 7,-15 14,-11 7,-7" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-7 0,-11" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-11 7,-7" fill="#155BE5" />
+    </g>
+    <g transform="translate(690, 300)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(683, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(676, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(669, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-33 7,-37 14,-33 7,-29" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-29 0,-33" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-33 7,-29" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(662, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-25 7,-29 14,-25 7,-21" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-21 0,-25" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-25 7,-21" fill="#388BFD" />
+    </g>
+    <g transform="translate(655, 340)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(648, 348)">
+      <!-- Top Face -->
+      <polygon points="0,-9 7,-13 14,-9 7,-5" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-5 0,-9" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-9 7,-5" fill="#155BE5" />
+    </g>
+    <g transform="translate(704, 304)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(697, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-35 7,-39 14,-35 7,-31" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-31 0,-35" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-35 7,-31" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(690, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-32 7,-36 14,-32 7,-28" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-28 0,-32" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-32 7,-28" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(683, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-25 7,-29 14,-25 7,-21" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-21 0,-25" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-25 7,-21" fill="#388BFD" />
+    </g>
+    <g transform="translate(676, 336)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(669, 344)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(662, 352)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(718, 308)">
+      <!-- Top Face -->
+      <polygon points="0,-29 7,-33 14,-29 7,-25" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-25 0,-29" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-29 7,-25" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(711, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-27 7,-31 14,-27 7,-23" fill="#79C0FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-23 0,-27" fill="#58A6FF" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-27 7,-23" fill="#7EE7FC" />
+    </g>
+    <g transform="translate(704, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-21 7,-25 14,-21 7,-17" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-17 0,-21" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-21 7,-17" fill="#388BFD" />
+    </g>
+    <g transform="translate(697, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(690, 340)">
+      <!-- Top Face -->
+      <polygon points="0,-4 7,-8 14,-4 7,-0" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-0 0,-4" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-4 7,-0" fill="#21262D" />
+    </g>
+    <g transform="translate(683, 348)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(676, 356)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(732, 312)">
+      <!-- Top Face -->
+      <polygon points="0,-20 7,-24 14,-20 7,-16" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-16 0,-20" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-20 7,-16" fill="#388BFD" />
+    </g>
+    <g transform="translate(725, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-16 7,-20 14,-16 7,-12" fill="#58A6FF" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-12 0,-16" fill="#2F80ED" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-16 7,-12" fill="#388BFD" />
+    </g>
+    <g transform="translate(718, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-8 7,-12 14,-8 7,-4" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-4 0,-8" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-8 7,-4" fill="#155BE5" />
+    </g>
+    <g transform="translate(711, 336)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(704, 344)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(697, 352)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(690, 360)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(746, 316)">
+      <!-- Top Face -->
+      <polygon points="0,-13 7,-17 14,-13 7,-9" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-9 0,-13" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-13 7,-9" fill="#155BE5" />
+    </g>
+    <g transform="translate(739, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-7 7,-11 14,-7 7,-3" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-3 0,-7" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-7 7,-3" fill="#155BE5" />
+    </g>
+    <g transform="translate(732, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(725, 340)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(718, 348)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(711, 356)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(704, 364)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(760, 320)">
+      <!-- Top Face -->
+      <polygon points="0,-10 7,-14 14,-10 7,-6" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-6 0,-10" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-10 7,-6" fill="#155BE5" />
+    </g>
+    <g transform="translate(753, 328)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(746, 336)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(739, 344)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(732, 352)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(725, 360)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(718, 368)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(774, 324)">
+      <!-- Top Face -->
+      <polygon points="0,-12 7,-16 14,-12 7,-8" fill="#1F6FEB" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,-8 0,-12" fill="#114BB7" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-12 7,-8" fill="#155BE5" />
+    </g>
+    <g transform="translate(767, 332)">
+      <!-- Top Face -->
+      <polygon points="0,-3 7,-7 14,-3 7,--1" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--1 0,-3" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-3 7,--1" fill="#21262D" />
+    </g>
+    <g transform="translate(760, 340)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(753, 348)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(746, 356)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(739, 364)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+    <g transform="translate(732, 372)">
+      <!-- Top Face -->
+      <polygon points="0,-2 7,-6 14,-2 7,--2" fill="#161B22" />
+      <!-- Left Face -->
+      <polygon points="0,0 7,4 7,--2 0,-2" fill="#0D1117" />
+      <!-- Right Face -->
+      <polygon points="7,4 14,0 14,-2 7,--2" fill="#21262D" />
+    </g>
+  </g>
+</svg>

@@ -1,15 +1,46 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#fffefe" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+  <title id="titleId">Sabari's GitHub Stats</title>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .bold { font-weight: 700; fill: #C9D1D9; }
+    .icon { fill: #58A6FF; }
+    .rank-circle { stroke: #58A6FF; stroke-width: 6; fill: none; }
+    .rank-text { font: 700 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#0D1117" stroke="#30363D"/>
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Sabari's GitHub Stats</text>
+  </g>
+  <g transform="translate(25, 65)">
+    <g transform="translate(0, 0)">
+      <path class="icon" d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm.5 4.75a.75.75 0 0 0-1.5 0v3.5a.75.75 0 0 0 .75.75h2.5a.75.75 0 0 0 0-1.5h-1.75V4.75z"/>
+      <text x="25" y="12.5" class="stat">Total Stars Earned:</text>
+      <text x="200" y="12.5" class="stat bold">15</text>
+    </g>
+    <g transform="translate(0, 26)">
+      <path class="icon" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32z"/>
+      <text x="25" y="12.5" class="stat">Total Commits:</text>
+      <text x="200" y="12.5" class="stat bold">2,233</text>
+    </g>
+    <g transform="translate(0, 52)">
+      <path class="icon" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354z"/>
+      <text x="25" y="12.5" class="stat">Total PRs:</text>
+      <text x="200" y="12.5" class="stat bold">48</text>
+    </g>
+    <g transform="translate(0, 78)">
+      <path class="icon" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"/>
+      <text x="25" y="12.5" class="stat">Total Issues:</text>
+      <text x="200" y="12.5" class="stat bold">18</text>
+    </g>
+    <g transform="translate(0, 104)">
+      <path class="icon" d="M2 2.5A1.5 1.5 0 013.5 1h9A1.5 1.5 0 0114 2.5v11a1.5 1.5 0 01-1.5 1.5h-9A1.5 1.5 0 012 13.5v-11z"/>
+      <text x="25" y="12.5" class="stat">Contributed to:</text>
+      <text x="200" y="12.5" class="stat bold">12</text>
+    </g>
+  </g>
+  <g transform="translate(400, 110)">
+    <circle cx="0" cy="0" r="40" class="rank-circle"/>
+    <text x="0" y="8" text-anchor="middle" class="rank-text">A+</text>
+  </g>
+</svg>
