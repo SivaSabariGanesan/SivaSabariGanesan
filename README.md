@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi%20there,%20I'm%20Sabari%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20should%20exist.&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi,%20I'm%20Sabari%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20should%20exist.&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Django;Turning+ideas+into+real+products;Always+building%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Product+Builder;AI+%26+Web+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 
 <br />
 
-### 👨‍💻 Full-Stack Developer
-
-I build **web applications, developer tools, and experimental products** — from turning an idea into a prototype to shipping something people can actually use.
-
-I enjoy working across the stack, solving messy problems, and learning whatever the project demands.
+I build web applications, AI-powered products, and experimental software — turning ideas into things people can actually use.
 
 <br />
 
@@ -28,60 +24,118 @@ I enjoy working across the stack, solving messy problems, and learning whatever 
 
 ---
 
-## ⚡ What I Do
+## 👋 A little about me
+
+I'm a full-stack developer focused on building scalable web applications and practical AI tools. I enjoy taking complex, messy problems and turning them into clean, reliable products that deliver real value.
+
+Whether architecting high-traffic platforms or crafting responsive user interfaces, I learn fastest by shipping real code for real users.
+
+---
+
+## ⚙️ What I Build
 
 <br />
 
-* **🌐 Full-Stack Development** — Building scalable and production-ready web applications.
-* **🧠 AI & Experimental Products** — Exploring practical ways to turn AI into useful tools.
-* **🎨 Frontend Engineering** — Building fast, interactive and thoughtful interfaces.
-* **🚀 Product Building** — Taking ideas from "what if?" to working product.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>01 — Web Products</h4>
+      <p>Production-ready full-stack applications built for scale, speed, and real-world traffic.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>02 — AI Tools</h4>
+      <p>Practical AI systems and workflows designed to solve actual developer and user problems.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>03 — Interactive Experiences</h4>
+      <p>Fast, thoughtful, and highly responsive user interfaces crafted with modern frameworks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04 — Experiments</h4>
+      <p>Developer tools, prototypes, and side projects exploring new technologies and ideas.</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools I Use
 
-### Frontend
+<br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts&theme=dark" alt="Frontend Tech Stack" />
-</p>
+| Category | Stack & Tooling |
+| :--- | :--- |
+| **Frontend** | React · Next.js · Tailwind CSS · JavaScript · TypeScript |
+| **Backend** | Node.js · Express · Flask · Django |
+| **Data & Cache** | PostgreSQL · MongoDB · Redis · Firebase |
+| **Languages** | JavaScript · TypeScript · Python · Java |
+| **Infra & Tools** | Git · GitHub · Docker · Linux |
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,postgres,mongodb,redis,firebase&theme=dark" alt="Backend Tech Stack" />
-</p>
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" alt="Languages" />
-</p>
+<br />
 
 ---
 
-## 🚀 Things I've Built
+## 🚀 Featured Work
 
 ### 🏟️ Titanium Fest
+*An event platform built to handle real-world traffic at scale.*
 
-An event platform built to handle real-world traffic at scale.
+* **Traffic**: 13K+ active users & 41K+ unique visitors
+* **Reliability**: Zero downtime throughout the entire event
+* **Role**: Led website development and end-to-end deployment
 
-* **13K+ users**
-* **41K+ unique visitors**
-* Zero downtime during the event
-* Led website development and deployment
+<br />
 
 ### 🧠 AI Projects
+*Experimental products turning practical AI into useful tools.*
 
-Currently experimenting with AI-powered products focused on solving real problems rather than using AI for the sake of AI.
+* **Focus**: Intelligent media workflows & developer-focused automation
+* **Philosophy**: Solving real workflow problems rather than using AI for the sake of AI
 
-### 🏆 Hackathons
+---
+
+## 📈 Built for Real Users
+
+<br />
+
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <h3>13K+</h3>
+      <p>Active Users</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>41K+</h3>
+      <p>Unique Visitors</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>0</h3>
+      <p>Downtime</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>1st Place</h3>
+      <p>Circuity 2024</p>
+    </td>
+    <td align="center" width="20%">
+      <h3>Top 6</h3>
+      <p>IIT Kanpur</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+## 🏁 Building Journey
 
 * 🥇 **Winner — Circuity 2024**, Saveetha Engineering College
 * 🏅 **Top 6 — BuzzOnEarth**, IIT Kanpur
+* 🌐 **Website Lead**, Titanium Fest Platform
 
 ---
 
@@ -120,30 +174,42 @@ Currently experimenting with AI-powered products focused on solving real problem
 
 ---
 
-## 🎯 Currently
+## ✦ Currently Building
 
-* Building full-stack applications
-* Exploring AI-powered products
-* Experimenting with game development
-* Participating in hackathons
-* Learning something new whenever I can
+* → Full-stack products for production deployment
+* → Practical AI-powered workflows & automation
+* → Interactive, performance-focused web experiences
+* → Experimental side projects and developer tools
+* → Game development experiments
 
 ---
 
-## ☕ A Few Things About Me
+## ☕ Outside the Code
 
 * I like building more than talking about building.
 * I enjoy turning vague ideas into working software.
-* I have an unhealthy relationship with `git commit`.
 * Coffee is occasionally a dependency.
 
 ---
 
 <div align="center">
 
-### Let's build something interesting.
+### Have an interesting idea?
+### **Let's build it.**
 
 <br />
+
+<a href="https://linkedin.com/in/siva-sabari-ganesan-a-b3288a28b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:asivasabariganesan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/SivaSabariGanesan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=SivaSabariGanesan&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
 
