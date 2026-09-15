@@ -34,28 +34,7 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>01 — Web Products</h4>
-      <p>Engineering production-ready full-stack applications for speed, scale, and high traffic.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>02 — AI Tools</h4>
-      <p>Developing practical AI systems and automated workflows to solve real user challenges.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>03 — Interactive Experiences</h4>
-      <p>Crafting responsive, performance-driven interfaces with modern web technologies.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>04 — Experiments</h4>
-      <p>Prototyping developer tools, side projects, and experimental software.</p>
-    </td>
-  </tr>
-</table>
+{{what_i_build}}
 
 <br />
 
@@ -65,13 +44,7 @@
 
 <br />
 
-| Category | Action-Driven Stack & Tooling |
-| :--- | :--- |
-| **Crafting Interfaces** | {{tech_stack.frontend}} |
-| **Architecting Backends** | {{tech_stack.backend}} |
-| **Managing Data & Caches** | {{tech_stack.database}} |
-| **Coding In** | {{tech_stack.languages}} |
-| **Deploying & Automating** | {{tech_stack.infra}} |
+{{tech_stack_table}}
 
 <br />
 
@@ -79,20 +52,7 @@
 
 ## 🚀 Featured Production Work
 
-### 🏟️ Titanium Fest Platform
-*Architecting an event platform built to sustain high-volume real-world traffic.*
-
-* **Handling Traffic**: Served 13K+ active users & 41K+ unique visitors
-* **Ensuring Reliability**: Sustained 100% uptime with zero downtime throughout the event
-* **Leading Execution**: Directed full-stack development and automated cloud deployment
-
-<br />
-
-### 🧠 AI Workflow Projects
-*Deploying experimental AI products that automate and streamline complex workflows.*
-
-* **Automating Workflows**: Engineering intelligent media pipelines & developer tooling
-* **Focusing on Utility**: Solving concrete workflow bottlenecks through practical AI
+{{featured_work}}
 
 ---
 
@@ -100,30 +60,7 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td align="center" width="20%">
-      <h3>13K+</h3>
-      <p>Active Users Served</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>41K+</h3>
-      <p>Unique Visitors Engaged</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>0</h3>
-      <p>Downtime Sustained</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>1st Place</h3>
-      <p>Winning Circuity 2024</p>
-    </td>
-    <td align="center" width="20%">
-      <h3>Top 6</h3>
-      <p>Ranking at IIT Kanpur</p>
-    </td>
-  </tr>
-</table>
+{{impact_table}}
 
 <br />
 
@@ -131,9 +68,7 @@
 
 ## 🏁 Track Record & Accomplishments
 
-* 🥇 **Winning Circuity 2024** — Secured 1st place in state hackathon at Saveetha Engineering College
-* 🏅 **Ranking Top 6** — Placed in national finals at IIT Kanpur BuzzOnEarth
-* 🌐 **Leading Platform Development** — Directed architecture and deployment for Titanium Fest
+{{journey_list}}
 
 ---
 
@@ -174,19 +109,13 @@
 
 ## ✦ Currently Building & Shipping
 
-* ⚡ **Deploying** full-stack products to production environments
-* 🤖 **Engineering** practical AI workflows and developer automation tools
-* 🎨 **Crafting** interactive, high-performance web user experiences
-* 🔬 **Prototyping** experimental developer tools and software projects
-* 🎮 **Developing** game mechanics and engine experiments
+{{currently_building_list}}
 
 ---
 
 ## ☕ Engineering Mindset & Action Principles
 
-* 🔨 **Prioritizing** building over talking about building.
-* 💡 **Transforming** vague ideas into production-ready software.
-* ☕ **Optimizing** developer velocity with coffee-fueled iterations.
+{{outside_code_list}}
 
 ---
 
@@ -216,4 +145,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
 

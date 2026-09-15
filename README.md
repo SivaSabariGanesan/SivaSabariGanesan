@@ -82,17 +82,18 @@ Building scalable full-stack applications and engineering practical AI solutions
 ### 🏟️ Titanium Fest Platform
 *Architecting an event platform built to sustain high-volume real-world traffic.*
 
-* **Handling Traffic**: Served 13K+ active users & 41K+ unique visitors
-* **Ensuring Reliability**: Sustained 100% uptime with zero downtime throughout the event
-* **Leading Execution**: Directed full-stack development and automated cloud deployment
+* **Handling traffic**: Served 13K+ active users & 41K+ unique visitors
+* **Ensuring reliability**: Sustained 100% uptime with zero downtime
+* **Leading execution**: Directed full-stack development and cloud deployment
 
 <br />
 
-### 🧠 AI Workflow Projects
+### 🏟️ AI Projects
 *Deploying experimental AI products that automate and streamline complex workflows.*
 
-* **Automating Workflows**: Engineering intelligent media pipelines & developer tooling
-* **Focusing on Utility**: Solving concrete workflow bottlenecks through practical AI
+* **Automating workflows**: Engineering intelligent media pipelines & developer tooling
+* **Focusing on utility**: Solving concrete workflow bottlenecks through practical AI
+
 
 ---
 
@@ -131,9 +132,9 @@ Building scalable full-stack applications and engineering practical AI solutions
 
 ## 🏁 Track Record & Accomplishments
 
-* 🥇 **Winning Circuity 2024** — Secured 1st place in state hackathon at Saveetha Engineering College
-* 🏅 **Ranking Top 6** — Placed in national finals at IIT Kanpur BuzzOnEarth
-* 🌐 **Leading Platform Development** — Directed architecture and deployment for Titanium Fest
+* 🥇 Winning Circuity 2024 — Secured 1st place in state hackathon at Saveetha Engineering College
+* 🏅 Ranking Top 6 — Placed in national finals at IIT Kanpur BuzzOnEarth
+* 🌐 Leading Platform Development — Directed architecture and deployment for Titanium Fest
 
 ---
 
@@ -174,19 +175,19 @@ Building scalable full-stack applications and engineering practical AI solutions
 
 ## ✦ Currently Building & Shipping
 
-* ⚡ **Deploying** full-stack products to production environments
-* 🤖 **Engineering** practical AI workflows and developer automation tools
-* 🎨 **Crafting** interactive, high-performance web user experiences
-* 🔬 **Prototyping** experimental developer tools and software projects
-* 🎮 **Developing** game mechanics and engine experiments
+* ⚡ Deploying full-stack products to production environments
+* 🤖 Engineering practical AI workflows and developer automation tools
+* 🎨 Crafting interactive, high-performance web user experiences
+* 🔬 Prototyping experimental developer tools and software projects
+* 🎮 Developing game mechanics and engine experiments
 
 ---
 
 ## ☕ Engineering Mindset & Action Principles
 
-* 🔨 **Prioritizing** building over talking about building.
-* 💡 **Transforming** vague ideas into production-ready software.
-* ☕ **Optimizing** developer velocity with coffee-fueled iterations.
+* 🔨 Prioritizing building over talking about building.
+* 💡 Transforming vague ideas into production-ready software.
+* ☕ Optimizing developer velocity with coffee-fueled iterations.
 
 ---
 
@@ -216,4 +217,5 @@ Building scalable full-stack applications and engineering practical AI solutions
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
 
