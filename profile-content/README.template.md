@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi,%20I'm%20{{name}}%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc={{tagline_encoded}}&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines={{headline_encoded}};Product+Builder;AI+%26+Web+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+Full-Stack+Apps;Building+Practical+AI+Tools;Architecting+Scalable+Systems;Shipping+High-Performance+Code" alt="Typing SVG" />
 
 <br />
 
@@ -24,13 +24,13 @@
 
 ---
 
-## 👋 A little about me
+## ⚡ Action-Driven Development
 
 {{bio_about}}
 
 ---
 
-## ⚙️ What I Build
+## ⚙️ What I Build & Ship
 
 <br />
 
@@ -38,21 +38,21 @@
   <tr>
     <td width="50%" valign="top">
       <h4>01 — Web Products</h4>
-      <p>Production-ready full-stack applications built for scale, speed, and real-world traffic.</p>
+      <p>Engineering production-ready full-stack applications for speed, scale, and high traffic.</p>
     </td>
     <td width="50%" valign="top">
       <h4>02 — AI Tools</h4>
-      <p>Practical AI systems and workflows designed to solve actual developer and user problems.</p>
+      <p>Developing practical AI systems and automated workflows to solve real user challenges.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>03 — Interactive Experiences</h4>
-      <p>Fast, thoughtful, and highly responsive user interfaces crafted with modern frameworks.</p>
+      <p>Crafting responsive, performance-driven interfaces with modern web technologies.</p>
     </td>
     <td width="50%" valign="top">
       <h4>04 — Experiments</h4>
-      <p>Developer tools, prototypes, and side projects exploring new technologies and ideas.</p>
+      <p>Prototyping developer tools, side projects, and experimental software.</p>
     </td>
   </tr>
 </table>
@@ -61,42 +61,42 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 Tools & Stack Executed
 
 <br />
 
-| Category | Stack & Tooling |
+| Category | Action-Driven Stack & Tooling |
 | :--- | :--- |
-| **Frontend** | {{tech_stack.frontend}} |
-| **Backend** | {{tech_stack.backend}} |
-| **Data & Cache** | {{tech_stack.database}} |
-| **Languages** | {{tech_stack.languages}} |
-| **Infra & Tools** | {{tech_stack.infra}} |
+| **Crafting Interfaces** | {{tech_stack.frontend}} |
+| **Architecting Backends** | {{tech_stack.backend}} |
+| **Managing Data & Caches** | {{tech_stack.database}} |
+| **Coding In** | {{tech_stack.languages}} |
+| **Deploying & Automating** | {{tech_stack.infra}} |
 
 <br />
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Production Work
 
-### 🏟️ Titanium Fest
-*An event platform built to handle real-world traffic at scale.*
+### 🏟️ Titanium Fest Platform
+*Architecting an event platform built to sustain high-volume real-world traffic.*
 
-* **Traffic**: 13K+ active users & 41K+ unique visitors
-* **Reliability**: Zero downtime throughout the entire event
-* **Role**: Led website development and end-to-end deployment
+* **Handling Traffic**: Served 13K+ active users & 41K+ unique visitors
+* **Ensuring Reliability**: Sustained 100% uptime with zero downtime throughout the event
+* **Leading Execution**: Directed full-stack development and automated cloud deployment
 
 <br />
 
-### 🧠 AI Projects
-*Experimental products turning practical AI into useful tools.*
+### 🧠 AI Workflow Projects
+*Deploying experimental AI products that automate and streamline complex workflows.*
 
-* **Focus**: Intelligent media workflows & developer-focused automation
-* **Philosophy**: Solving real workflow problems rather than using AI for the sake of AI
+* **Automating Workflows**: Engineering intelligent media pipelines & developer tooling
+* **Focusing on Utility**: Solving concrete workflow bottlenecks through practical AI
 
 ---
 
-## 📈 Built for Real Users
+## 📈 Proven Production Impact
 
 <br />
 
@@ -104,23 +104,23 @@
   <tr>
     <td align="center" width="20%">
       <h3>13K+</h3>
-      <p>Active Users</p>
+      <p>Active Users Served</p>
     </td>
     <td align="center" width="20%">
       <h3>41K+</h3>
-      <p>Unique Visitors</p>
+      <p>Unique Visitors Engaged</p>
     </td>
     <td align="center" width="20%">
       <h3>0</h3>
-      <p>Downtime</p>
+      <p>Downtime Sustained</p>
     </td>
     <td align="center" width="20%">
       <h3>1st Place</h3>
-      <p>Circuity 2024</p>
+      <p>Winning Circuity 2024</p>
     </td>
     <td align="center" width="20%">
       <h3>Top 6</h3>
-      <p>IIT Kanpur</p>
+      <p>Ranking at IIT Kanpur</p>
     </td>
   </tr>
 </table>
@@ -129,15 +129,15 @@
 
 ---
 
-## 🏁 Building Journey
+## 🏁 Track Record & Accomplishments
 
-* 🥇 **Winner — Circuity 2024**, Saveetha Engineering College
-* 🏅 **Top 6 — BuzzOnEarth**, IIT Kanpur
-* 🌐 **Website Lead**, Titanium Fest Platform
+* 🥇 **Winning Circuity 2024** — Secured 1st place in state hackathon at Saveetha Engineering College
+* 🏅 **Ranking Top 6** — Placed in national finals at IIT Kanpur BuzzOnEarth
+* 🌐 **Leading Platform Development** — Directed architecture and deployment for Titanium Fest
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
@@ -152,7 +152,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
@@ -162,7 +162,7 @@
 
 ---
 
-## 🧊 Contribution Graph
+## 🧊 Visualizing Contributions
 
 <div align="center">
 
@@ -172,28 +172,28 @@
 
 ---
 
-## ✦ Currently Building
+## ✦ Currently Building & Shipping
 
-* → Full-stack products for production deployment
-* → Practical AI-powered workflows & automation
-* → Interactive, performance-focused web experiences
-* → Experimental side projects and developer tools
-* → Game development experiments
+* ⚡ **Deploying** full-stack products to production environments
+* 🤖 **Engineering** practical AI workflows and developer automation tools
+* 🎨 **Crafting** interactive, high-performance web user experiences
+* 🔬 **Prototyping** experimental developer tools and software projects
+* 🎮 **Developing** game mechanics and engine experiments
 
 ---
 
-## ☕ Outside the Code
+## ☕ Engineering Mindset & Action Principles
 
-* I like building more than talking about building.
-* I enjoy turning vague ideas into working software.
-* Coffee is occasionally a dependency.
+* 🔨 **Prioritizing** building over talking about building.
+* 💡 **Transforming** vague ideas into production-ready software.
+* ☕ **Optimizing** developer velocity with coffee-fueled iterations.
 
 ---
 
 <div align="center">
 
-### Have an interesting idea?
-### **Let's build it.**
+### **Ready to create something impactful?**
+### **Let's build it together.**
 
 <br />
 
@@ -216,3 +216,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
+
