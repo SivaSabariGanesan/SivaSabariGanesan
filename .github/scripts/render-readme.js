@@ -4,6 +4,7 @@ const path = require('path');
 const repoRoot = path.join(__dirname, '../..');
 const profileYmlPath = path.join(repoRoot, 'profile-content', 'profile.yml');
 const templatePath = path.join(repoRoot, 'profile-content', 'README.template.md');
+const currentlyBuildingPath = path.join(repoRoot, 'profile', 'currently-building.md');
 const outputPath = path.join(repoRoot, 'README.md');
 
 function parseYaml(yamlContent) {
@@ -108,39 +109,47 @@ if (data.social) {
   template = template.replace(/\{\{\s*social\.email\s*\}\}/g, data.social.email || '');
 }
 
-// Render what_i_build table
-if (Array.isArray(data.what_i_build)) {
-  let html = '<table width="100%">\n';
-  for (let i = 0; i < data.what_i_build.length; i += 2) {
-    html += '  <tr>\n';
-    const item1 = data.what_i_build[i];
-    html += `    <td width="50%" valign="top">\n      <h4>${item1.id} — ${item1.title}</h4>\n      <p>${item1.desc}</p>\n    </td>\n`;
-    if (i + 1 < data.what_i_build.length) {
-      const item2 = data.what_i_build[i + 1];
-      html += `    <td width="50%" valign="top">\n      <h4>${item2.id} — ${item2.title}</h4>\n      <p>${item2.desc}</p>\n    </td>\n`;
-    }
-    html += '  </tr>\n';
-  }
-  html += '</table>';
-  template = template.replace(/\{\{\s*what_i_build\s*\}\}/g, html);
-}
+// Render what_i_build table (2x2 HTML table format matching requirements)
+let whatIBuildHtml = `<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>01 — Web Products</h4>
+      <p>Production-ready full-stack applications built for speed and scale.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>02 — AI Systems</h4>
+      <p>Practical AI tools, automation, and intelligent workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>03 — Developer Tools</h4>
+      <p>Internal tools, automation, APIs, and engineering utilities.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>04 — Experiments</h4>
+      <p>Prototypes, systems experiments, game mechanics, and emerging tech.</p>
+    </td>
+  </tr>
+</table>`;
+template = template.replace(/\{\{\s*what_i_build\s*\}\}/g, whatIBuildHtml);
 
 // Render tech_stack table
 if (data.tech_stack) {
   const tsTable = `| Category | Action-Driven Stack & Tooling |
 | :--- | :--- |
-| **Crafting Interfaces** | ${data.tech_stack.frontend || ''} |
-| **Architecting Backends** | ${data.tech_stack.backend || ''} |
-| **Managing Data & Caches** | ${data.tech_stack.database || ''} |
-| **Coding In** | ${data.tech_stack.languages || ''} |
-| **Deploying & Automating** | ${data.tech_stack.infra || ''} |`;
+| **Frontend** | ${data.tech_stack.frontend || 'React · Next.js · JavaScript · TypeScript · Tailwind CSS'} |
+| **Backend** | ${data.tech_stack.backend || 'Node.js · Express · FastAPI · Flask · Django'} |
+| **Databases** | ${data.tech_stack.database || 'PostgreSQL · MongoDB · Redis · Firebase'} |
+| **Languages** | ${data.tech_stack.languages || 'JavaScript · TypeScript · Python · Java'} |
+| **DevOps & Infra** | ${data.tech_stack.infra || 'Git · GitHub · Docker · Linux · Azure · GitHub Actions'} |`;
   template = template.replace(/\{\{\s*tech_stack_table\s*\}\}/g, tsTable);
 }
 
 // Render featured_work
 if (Array.isArray(data.featured_work)) {
   const fwMd = data.featured_work.map(item => {
-    let md = `### 🏟️ ${item.name}\n*${item.tagline}*\n\n`;
+    let md = `### ${item.name}\n*${item.tagline}*\n\n`;
     if (Array.isArray(item.details)) {
       md += item.details.map(d => {
         const colonIdx = d.indexOf(':');
@@ -157,35 +166,19 @@ if (Array.isArray(data.featured_work)) {
   template = template.replace(/\{\{\s*featured_work\s*\}\}/g, fwMd);
 }
 
-// Render impact_table
-if (Array.isArray(data.impact)) {
-  const colWidth = Math.floor(100 / data.impact.length);
-  let html = '<table width="100%">\n  <tr>\n';
-  data.impact.forEach(item => {
-    html += `    <td align="center" width="${colWidth}%">\n      <h3>${item.metric}</h3>\n      <p>${item.label}</p>\n    </td>\n`;
-  });
-  html += '  </tr>\n</table>';
-  template = template.replace(/\{\{\s*impact_table\s*\}\}/g, html);
+// Render dynamic currently building
+let currentlyBuildingText = 'Currently exploring and shipping new software projects.';
+if (fs.existsSync(currentlyBuildingPath)) {
+  const raw = fs.readFileSync(currentlyBuildingPath, 'utf8').trim();
+  if (raw) currentlyBuildingText = raw;
 }
+template = template.replace(/\{\{\s*currently_building_dynamic\s*\}\}/g, currentlyBuildingText);
 
-// Render journey_list
-if (Array.isArray(data.journey)) {
-  const jList = data.journey.map(item => `* ${item}`).join('\n');
-  template = template.replace(/\{\{\s*journey_list\s*\}\}/g, jList);
-}
-
-// Render currently_building_list
-if (Array.isArray(data.currently_building)) {
-  const cbList = data.currently_building.map(item => `* ${item}`).join('\n');
-  template = template.replace(/\{\{\s*currently_building_list\s*\}\}/g, cbList);
-}
-
-// Render outside_code_list
-if (Array.isArray(data.outside_code)) {
-  const ocList = data.outside_code.map(item => `* ${item}`).join('\n');
-  template = template.replace(/\{\{\s*outside_code_list\s*\}\}/g, ocList);
+// Render principles
+if (Array.isArray(data.principles)) {
+  const pList = data.principles.map(item => `* ${item}`).join('\n');
+  template = template.replace(/\{\{\s*engineering_principles\s*\}\}/g, pList);
 }
 
 fs.writeFileSync(outputPath, template, 'utf8');
 console.log('Successfully generated README.md from template and profile.yml');
-

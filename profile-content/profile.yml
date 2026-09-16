@@ -2,33 +2,19 @@ name: Sabari
 headline: Full-Stack Developer
 tagline: Building software that delivers real-world impact.
 bio_short: Engineering web applications, building AI tools, and shipping practical software — transforming ideas into production-ready products.
-bio_about: Building scalable full-stack applications and engineering practical AI solutions. Transforming complex software challenges into clean, reliable, and high-impact products. Architecting high-traffic platforms, crafting intuitive user interfaces, and continuously optimizing systems by shipping production code for real-world users.
+bio_about: Full-stack engineer focused on building scalable web applications, practical AI/ML tools, robust backend architecture, and developer tooling with production deployment automation.
 
 social:
   github: https://github.com/SivaSabariGanesan
   linkedin: https://linkedin.com/in/siva-sabari-ganesan-a-b3288a28b
   email: mailto:asivasabariganesan@gmail.com
 
-what_i_build:
-  - id: "01"
-    title: Web Products
-    desc: Engineering production-ready full-stack applications for speed, scale, and high traffic.
-  - id: "02"
-    title: AI Tools
-    desc: Developing practical AI systems and automated workflows to solve real user challenges.
-  - id: "03"
-    title: Interactive Experiences
-    desc: Crafting responsive, performance-driven interfaces with modern web technologies.
-  - id: "04"
-    title: Experiments
-    desc: Prototyping developer tools, side projects, and experimental software.
-
 tech_stack:
-  frontend: React · Next.js · Tailwind CSS · JavaScript · TypeScript
-  backend: Node.js · Express · Flask · Django
+  frontend: React · Next.js · JavaScript · TypeScript · Tailwind CSS
+  backend: Node.js · Express · Flask · Django · FastAPI
   database: PostgreSQL · MongoDB · Redis · Firebase
   languages: JavaScript · TypeScript · Python · Java
-  infra: Git · GitHub · Docker · Linux
+  infra: Git · GitHub · Docker · Linux · Azure · GitHub Actions
 
 featured_work:
   - name: Titanium Fest Platform
@@ -36,39 +22,16 @@ featured_work:
     details:
       - "Handling traffic: Served 13K+ active users & 41K+ unique visitors"
       - "Ensuring reliability: Sustained 100% uptime with zero downtime"
-      - "Leading execution: Directed full-stack development and cloud deployment"
+      - "Leading execution: Directed full-stack development, GitHub Actions CI/CD automation, and cloud deployment"
   - name: AI Projects
-    tagline: Deploying experimental AI products that automate and streamline complex workflows.
+    tagline: Deploying practical AI products that automate and streamline complex workflows.
     details:
-      - "Automating workflows: Engineering intelligent media pipelines & developer tooling"
-      - "Focusing on utility: Solving concrete workflow bottlenecks through practical AI"
+      - "Automating workflows: Engineering GitHub Actions CI/CD pipelines, AI video editing workflows, intelligent media pipelines & developer tooling"
+      - "Focusing on utility: Solving concrete workflow bottlenecks through practical AI and AI-powered workflow systems"
 
-impact:
-  - metric: 13K+
-    label: Active Users Served
-  - metric: 41K+
-    label: Unique Visitors Engaged
-  - metric: "0"
-    label: Downtime Sustained
-  - metric: 1st Place
-    label: Winning Circuity 2024
-  - metric: Top 6
-    label: Ranking at IIT Kanpur
-
-journey:
-  - 🥇 Winning Circuity 2024 — Secured 1st place in state hackathon at Saveetha Engineering College
-  - 🏅 Ranking Top 6 — Placed in national finals at IIT Kanpur BuzzOnEarth
-  - 🌐 Leading Platform Development — Directed architecture and deployment for Titanium Fest
-
-currently_building:
-  - ⚡ Deploying full-stack products to production environments
-  - 🤖 Engineering practical AI workflows and developer automation tools
-  - 🎨 Crafting interactive, high-performance web user experiences
-  - 🔬 Prototyping experimental developer tools and software projects
-  - 🎮 Developing game mechanics and engine experiments
-
-outside_code:
-  - 🔨 Prioritizing building over talking about building.
-  - 💡 Transforming vague ideas into production-ready software.
-  - ☕ Optimizing developer velocity with coffee-fueled iterations.
-
+principles:
+  - Build before overthinking.
+  - Turn ideas into working software.
+  - Optimize for real users.
+  - Prefer simple systems that scale.
+  - Learn by shipping.

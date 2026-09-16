@@ -1,8 +1,8 @@
-name: GitHub Trophies
+name: Achievements
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Daily at midnight
   workflow_dispatch:
 
 permissions:
@@ -31,8 +31,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/trophies.svg
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No changes to trophies.svg"
           else
-            git commit -m "chore: update github trophies svg"
+            git commit -m "chore: update achievements trophies SVG [skip ci]"
             git push
           fi
