@@ -43,19 +43,19 @@
 
 ---
 
-<div align="center">
+## 🧰 Tech Stack
 
-<img src="./profile/tech-stack.svg" width="100%" alt="Tech Stack & Developer Tooling" />
+<br />
 
-</div>
+{{tech_stack_table}}
+
+<br />
 
 ---
 
-<div align="center">
+## 🚀 Featured Production Work
 
-<img src="./profile/featured-work.svg" width="100%" alt="Featured Production Work" />
-
-</div>
+{{featured_work}}
 
 ---
 

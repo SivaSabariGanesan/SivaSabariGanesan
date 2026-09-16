@@ -64,19 +64,39 @@ Full-stack engineer focused on building scalable web applications, practical AI/
 
 ---
 
-<div align="center">
+## 🧰 Tech Stack
 
-<img src="./profile/tech-stack.svg" width="100%" alt="Tech Stack & Developer Tooling" />
+<br />
 
-</div>
+| Category | Action-Driven Stack & Tooling |
+| :--- | :--- |
+| **Frontend** | React · Next.js · JavaScript · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · Express · Flask · Django · FastAPI |
+| **Databases** | PostgreSQL · MongoDB · Redis · Firebase |
+| **Languages** | JavaScript · TypeScript · Python · Java |
+| **DevOps & Infra** | Git · GitHub · Docker · Linux · Azure · GitHub Actions |
+
+<br />
 
 ---
 
-<div align="center">
+## 🚀 Featured Production Work
 
-<img src="./profile/featured-work.svg" width="100%" alt="Featured Production Work" />
+### Titanium Fest Platform
+*Architecting an event platform built to sustain high-volume real-world traffic.*
 
-</div>
+* **Handling traffic**: Served 13K+ active users & 41K+ unique visitors
+* **Ensuring reliability**: Sustained 100% uptime with zero downtime
+* **Leading execution**: Directed full-stack development, GitHub Actions CI/CD automation, and cloud deployment
+
+<br />
+
+### AI Projects
+*Deploying practical AI products that automate and streamline complex workflows.*
+
+* **Automating workflows**: Engineering GitHub Actions CI/CD pipelines, AI video editing workflows, intelligent media pipelines & developer tooling
+* **Focusing on utility**: Solving concrete workflow bottlenecks through practical AI and AI-powered workflow systems
+
 
 ---
 
