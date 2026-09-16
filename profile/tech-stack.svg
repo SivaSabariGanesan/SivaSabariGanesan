@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="385" viewBox="0 0 850 385" fill="none">
+  <style>
+    .card { fill: #0D1117; stroke: #30363D; stroke-width: 1px; rx: 12px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 700; fill: #58A6FF; }
+    .cat-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #C9D1D9; }
+    .stack-text { font-family: "Fira Code", -apple-system, BlinkMacSystemFont, monospace; font-size: 13.5px; font-weight: 500; fill: #8B949E; }
+    .grid-line { stroke: #30363D; stroke-width: 1px; }
+  </style>
+
+  <rect width="850" height="385" class="card" />
+
+  <!-- Header -->
+  <text x="30" y="42" class="title">🧰 Tech Stack &amp; Developer Tooling</text>
+  <line x1="30" y1="58" x2="820" y2="58" class="grid-line" />
+
+  
+  <!-- Row 1 -->
+  <g transform="translate(30, 85)">
+    <rect width="180" height="34" fill="#161B22" rx="6" stroke="#30363D" stroke-width="1" />
+    <text x="15" y="22" class="cat-label">🎨  Frontend</text>
+    <text x="210" y="22" class="stack-text">React · Next.js · JavaScript · TypeScript · Tailwind CSS</text>
+  </g>
+  <line x1="30" y1="130" x2="820" y2="130" stroke="#21262D" stroke-width="1" />
+  <!-- Row 2 -->
+  <g transform="translate(30, 141)">
+    <rect width="180" height="34" fill="#161B22" rx="6" stroke="#30363D" stroke-width="1" />
+    <text x="15" y="22" class="cat-label">⚡  Backend</text>
+    <text x="210" y="22" class="stack-text">Node.js · Express · Flask · Django · FastAPI</text>
+  </g>
+  <line x1="30" y1="186" x2="820" y2="186" stroke="#21262D" stroke-width="1" />
+  <!-- Row 3 -->
+  <g transform="translate(30, 197)">
+    <rect width="180" height="34" fill="#161B22" rx="6" stroke="#30363D" stroke-width="1" />
+    <text x="15" y="22" class="cat-label">🗄️  Databases</text>
+    <text x="210" y="22" class="stack-text">PostgreSQL · MongoDB · Redis · Firebase</text>
+  </g>
+  <line x1="30" y1="242" x2="820" y2="242" stroke="#21262D" stroke-width="1" />
+  <!-- Row 4 -->
+  <g transform="translate(30, 253)">
+    <rect width="180" height="34" fill="#161B22" rx="6" stroke="#30363D" stroke-width="1" />
+    <text x="15" y="22" class="cat-label">💻  Languages</text>
+    <text x="210" y="22" class="stack-text">JavaScript · TypeScript · Python · Java</text>
+  </g>
+  <line x1="30" y1="298" x2="820" y2="298" stroke="#21262D" stroke-width="1" />
+  <!-- Row 5 -->
+  <g transform="translate(30, 309)">
+    <rect width="180" height="34" fill="#161B22" rx="6" stroke="#30363D" stroke-width="1" />
+    <text x="15" y="22" class="cat-label">🚀  DevOps & Infra</text>
+    <text x="210" y="22" class="stack-text">Git · GitHub · Docker · Linux · Azure · GitHub Actions</text>
+  </g>
+</svg>

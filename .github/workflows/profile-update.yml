@@ -25,8 +25,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Generate Hero SVG
-        run: node .github/scripts/generate-hero-svg.js
+      - name: Generate SVGs
+        run: |
+          node .github/scripts/generate-hero-svg.js
+          node .github/scripts/generate-tech-stack-svg.js
+          node .github/scripts/generate-featured-work-svg.js
 
       - name: Update Currently Building Content
         env:
@@ -40,9 +43,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md profile/currently-building.md profile/hero.svg
+          git add README.md profile/currently-building.md profile/hero.svg profile/tech-stack.svg profile/featured-work.svg
           if git diff --cached --quiet; then
-            echo "No changes to README.md, hero.svg, or currently-building.md"
+            echo "No changes to README.md or generated profile SVGs"
           else
             git commit -m "chore: auto-generate README.md from profile-content [skip ci]"
             git push
