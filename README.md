@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Hi,%20I'm%20Sabari%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20delivers%20real-world%20impact.&descAlignY=58&descSize=18" width="100%" alt="Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+Full-Stack+Apps;Building+Practical+AI+Tools;Architecting+Scalable+Systems;Shipping+Production+Software" alt="Typing SVG" />
+<img src="./profile/hero.svg" width="100%" alt="Sabari - Full-Stack Developer & AI Systems Engineer" />
 
 <br />
 
