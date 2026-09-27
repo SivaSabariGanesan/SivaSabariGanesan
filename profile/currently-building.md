@@ -1,1 +1,1 @@
-Actively pushing code & shipping updates for [Final-year-project](https://github.com/SriSanjana005/Final-year-project), [Paytm-AI-Hackathon](https://github.com/SivaSabariGanesan/Paytm-AI-Hackathon).
+Actively pushing code & shipping updates for [ODOO-X-GCET-Stock-Sense](https://github.com/SivaSabariGanesan/ODOO-X-GCET-Stock-Sense).
