@@ -21,7 +21,7 @@
   <!-- Metric 2: Total Stars -->
   <g transform="translate(230, 85)">
     <text x="0" y="0" class="label">Total Stars Earned</text>
-    <text x="0" y="30" class="value">16</text>
+    <text x="0" y="30" class="value">18</text>
   </g>
 
   <!-- Metric 3: Total Forks -->
