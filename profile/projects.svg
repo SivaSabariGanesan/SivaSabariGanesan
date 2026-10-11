@@ -15,7 +15,7 @@
   <!-- Metric 1: Public Repos -->
   <g transform="translate(40, 85)">
     <text x="0" y="0" class="label">Public Repositories</text>
-    <text x="0" y="30" class="value">69</text>
+    <text x="0" y="30" class="value">71</text>
   </g>
 
   <!-- Metric 2: Total Stars -->
